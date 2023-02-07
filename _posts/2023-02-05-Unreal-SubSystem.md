@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "자료구조 02 하노이 타워"
+title:  "Unreal-SubSystem"
 categories: Unreal
 tag : [Unreal]
 toc : true
@@ -10,7 +10,6 @@ sidebar:
 
 # search : false
 ---
-
 
 
 언리얼 엔진 4의 서브시스템은 수명이 관리되는 자동 인스턴싱 클래스입니다. 이 클래스는 사용하기 쉬운 확장점을 제공하여, 프로그래머는 블루프린트 및 Python에 바로 노출시킴과 동시에 복잡한 엔진 클래스 수정 또는 오버라이드를 피할 수 있습니다.

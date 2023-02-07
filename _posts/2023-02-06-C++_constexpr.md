@@ -1,3 +1,17 @@
+
+---
+layout: single
+title:  "constexpr"
+categories: Unreal
+tag : [c++]
+toc : true
+author_profile : false
+sidebar:
+    nav: "docs"
+
+# search : false
+---
+
 **1. constexpr**
 
 http://en.cppreference.com/w/cpp/language/constexpr
